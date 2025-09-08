@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Architect",
+  "description": "An AI-powered web application to help you write code for any application in any programming language. Features multi-file upload for context and a live project preview.",
+  "requestFramePermissions": []
+}
